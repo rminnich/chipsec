@@ -1,0 +1,1344 @@
+~rminnich/go/bin/pox -d /usr/bin/python  \
+run \
+chipsec_main.py \
+/lib/x86_64-linux-gnu/libc.so.6 \
+/lib/x86_64-linux-gnu/libpthread.so.0 \
+/lib/x86_64-linux-gnu/libdl.so.2 \
+/lib/x86_64-linux-gnu/libutil.so.1 \
+/lib/x86_64-linux-gnu/libz.so.1 \
+/lib/x86_64-linux-gnu/libm.so.6 \
+/usr/lib/python2.7/site.py \
+/usr/lib/python2.7/site.pyc \
+/usr/lib/python2.7/os.py \
+/usr/lib/python2.7/os.pyc \
+/usr/lib/python2.7/posixpath.py \
+/usr/lib/python2.7/posixpath.pyc \
+/usr/lib/python2.7/stat.py \
+/usr/lib/python2.7/stat.pyc \
+/usr/lib/python2.7/genericpath.py \
+/usr/lib/python2.7/genericpath.pyc \
+/usr/lib/python2.7/warnings.py \
+/usr/lib/python2.7/warnings.pyc \
+/usr/lib/python2.7/linecache.py \
+/usr/lib/python2.7/linecache.pyc \
+/usr/lib/python2.7/types.py \
+/usr/lib/python2.7/types.pyc \
+/usr/lib/python2.7/UserDict.py \
+/usr/lib/python2.7/UserDict.pyc \
+/usr/lib/python2.7/_abcoll.py \
+/usr/lib/python2.7/_abcoll.pyc \
+/usr/lib/python2.7/abc.py \
+/usr/lib/python2.7/abc.pyc \
+/usr/lib/python2.7/_weakrefset.py \
+/usr/lib/python2.7/_weakrefset.pyc \
+/usr/lib/python2.7/copy_reg.py \
+/usr/lib/python2.7/copy_reg.pyc \
+/usr/lib/python2.7/traceback.py \
+/usr/lib/python2.7/traceback.pyc \
+/usr/lib/python2.7/sysconfig.py \
+/usr/lib/python2.7/sysconfig.pyc \
+/usr/lib/python2.7/re.py \
+/usr/lib/python2.7/re.pyc \
+/usr/lib/python2.7/sre_compile.py \
+/usr/lib/python2.7/sre_compile.pyc \
+/usr/lib/python2.7/sre_parse.py \
+/usr/lib/python2.7/sre_parse.pyc \
+/usr/lib/python2.7/sre_constants.py \
+/usr/lib/python2.7/sre_constants.pyc \
+/usr/lib/python2.7/_sysconfigdata.py \
+/usr/lib/python2.7/_sysconfigdata.pyc \
+/usr/lib/python2.7/plat-x86_64-linux-gnu/_sysconfigdata_nd.py \
+/usr/lib/python2.7/plat-x86_64-linux-gnu/_sysconfigdata_nd.pyc \
+/usr/lib/python2.7/dist-packages/pygtk.pth \
+/usr/lib/python2.7/sitecustomize.py \
+/usr/lib/python2.7/sitecustomize.pyc \
+/usr/lib/locale/locale-archive \
+/usr/lib/python2.7/encodings/__init__.py \
+/usr/lib/python2.7/encodings/__init__.pyc \
+/usr/lib/python2.7/codecs.py \
+/usr/lib/python2.7/codecs.pyc \
+/usr/lib/python2.7/encodings/aliases.py \
+/usr/lib/python2.7/encodings/aliases.pyc \
+/usr/lib/python2.7/encodings/utf_8.py \
+/usr/lib/python2.7/encodings/utf_8.pyc \
+chipsec_main.py \
+chipsec_main.py \
+/usr/lib/python2.7/inspect.py \
+/usr/lib/python2.7/inspect.pyc \
+/usr/lib/python2.7/string.py \
+/usr/lib/python2.7/string.pyc \
+/usr/lib/python2.7/dis.py \
+/usr/lib/python2.7/dis.pyc \
+/usr/lib/python2.7/opcode.py \
+/usr/lib/python2.7/opcode.pyc \
+/usr/lib/python2.7/tokenize.py \
+/usr/lib/python2.7/tokenize.pyc \
+/usr/lib/python2.7/token.py \
+/usr/lib/python2.7/token.pyc \
+/usr/lib/python2.7/collections.py \
+/usr/lib/python2.7/collections.pyc \
+/usr/lib/python2.7/keyword.py \
+/usr/lib/python2.7/keyword.pyc \
+/usr/lib/python2.7/heapq.py \
+/usr/lib/python2.7/heapq.pyc \
+/usr/lib/python2.7/fnmatch.py \
+/usr/lib/python2.7/fnmatch.pyc \
+/usr/lib/python2.7/getopt.py \
+/usr/lib/python2.7/getopt.pyc \
+/usr/lib/python2.7/json/__init__.py \
+/usr/lib/python2.7/json/__init__.pyc \
+/usr/lib/python2.7/json/decoder.py \
+/usr/lib/python2.7/json/decoder.pyc \
+/usr/lib/python2.7/struct.py \
+/usr/lib/python2.7/struct.pyc \
+/usr/lib/python2.7/json/scanner.py \
+/usr/lib/python2.7/json/scanner.pyc \
+/usr/lib/python2.7/lib-dynload/_json.x86_64-linux-gnu.so \
+/usr/lib/python2.7/lib-dynload/_json.x86_64-linux-gnu.so \
+/usr/lib/python2.7/json/encoder.py \
+/usr/lib/python2.7/json/encoder.pyc \
+/etc/localtime \
+/usr/lib/python2.7/zipfile.py \
+/usr/lib/python2.7/zipfile.pyc \
+/usr/lib/python2.7/shutil.py \
+/usr/lib/python2.7/shutil.pyc \
+/usr/lib/python2.7/lib-dynload/bz2.x86_64-linux-gnu.so \
+/usr/lib/python2.7/lib-dynload/bz2.x86_64-linux-gnu.so \
+/etc/ld.so.cache \
+/lib/x86_64-linux-gnu/libbz2.so.1.0 \
+/usr/lib/python2.7/io.py \
+/usr/lib/python2.7/io.pyc \
+/home/rminnich/projects/NERF/chipsec/chipsec/__init__.py \
+/home/rminnich/projects/NERF/chipsec/chipsec/__init__.pyc \
+/home/rminnich/projects/NERF/chipsec/chipsec/file.py \
+/home/rminnich/projects/NERF/chipsec/chipsec/file.pyc \
+/home/rminnich/projects/NERF/chipsec/chipsec/logger.py \
+/home/rminnich/projects/NERF/chipsec/chipsec/logger.pyc \
+/usr/lib/python2.7/platform.py \
+/usr/lib/python2.7/platform.pyc \
+/home/rminnich/projects/NERF/chipsec/chipsec/xmlout.py \
+/home/rminnich/projects/NERF/chipsec/chipsec/xmlout.pyc \
+/usr/lib/python2.7/xml/__init__.py \
+/usr/lib/python2.7/xml/__init__.pyc \
+/usr/lib/python2.7/xml/etree/__init__.py \
+/usr/lib/python2.7/xml/etree/__init__.pyc \
+/usr/lib/python2.7/xml/etree/ElementTree.py \
+/usr/lib/python2.7/xml/etree/ElementTree.pyc \
+/usr/lib/python2.7/xml/etree/ElementPath.py \
+/usr/lib/python2.7/xml/etree/ElementPath.pyc \
+/usr/lib/python2.7/xml/dom/__init__.py \
+/usr/lib/python2.7/xml/dom/__init__.pyc \
+/usr/lib/python2.7/xml/dom/domreg.py \
+/usr/lib/python2.7/xml/dom/domreg.pyc \
+/usr/lib/python2.7/xml/dom/minicompat.py \
+/usr/lib/python2.7/xml/dom/minicompat.pyc \
+/usr/lib/python2.7/xml/dom/minidom.py \
+/usr/lib/python2.7/xml/dom/minidom.pyc \
+/usr/lib/python2.7/xml/dom/xmlbuilder.py \
+/usr/lib/python2.7/xml/dom/xmlbuilder.pyc \
+/usr/lib/python2.7/copy.py \
+/usr/lib/python2.7/copy.pyc \
+/usr/lib/python2.7/weakref.py \
+/usr/lib/python2.7/weakref.pyc \
+/usr/lib/python2.7/xml/dom/NodeFilter.py \
+/usr/lib/python2.7/xml/dom/NodeFilter.pyc \
+/lib/x86_64-linux-gnu/libc.so.6 \
+/lib/x86_64-linux-gnu/libc.so.6 \
+/usr/lib/locale/locale-archive \
+/home/rminnich/projects/NERF/chipsec/chipsec/module.py \
+/home/rminnich/projects/NERF/chipsec/chipsec/module.pyc \
+/home/rminnich/projects/NERF/chipsec/chipsec/module_common.py \
+/home/rminnich/projects/NERF/chipsec/chipsec/module_common.pyc \
+/home/rminnich/projects/NERF/chipsec/chipsec/chipset.py \
+/home/rminnich/projects/NERF/chipsec/chipsec/chipset.pyc \
+/home/rminnich/projects/NERF/chipsec/chipsec/helper/__init__.py \
+/home/rminnich/projects/NERF/chipsec/chipsec/helper/__init__.pyc \
+/home/rminnich/projects/NERF/chipsec/chipsec/helper/oshelper.py \
+/home/rminnich/projects/NERF/chipsec/chipsec/helper/oshelper.pyc \
+/usr/lib/python2.7/importlib/__init__.py \
+/usr/lib/python2.7/importlib/__init__.pyc \
+/home/rminnich/projects/NERF/chipsec/chipsec/helper/helpers.py \
+/home/rminnich/projects/NERF/chipsec/chipsec/helper/helpers.pyc \
+/home/rminnich/projects/NERF/chipsec/chipsec/helper/efi/__init__.py \
+/home/rminnich/projects/NERF/chipsec/chipsec/helper/efi/__init__.pyc \
+/home/rminnich/projects/NERF/chipsec/chipsec/helper/linux/__init__.py \
+/home/rminnich/projects/NERF/chipsec/chipsec/helper/linux/__init__.pyc \
+/home/rminnich/projects/NERF/chipsec/chipsec/helper/linux/helper.py \
+/home/rminnich/projects/NERF/chipsec/chipsec/helper/linux/helper.pyc \
+/usr/lib/python2.7/ctypes/__init__.py \
+/usr/lib/python2.7/ctypes/__init__.pyc \
+/usr/lib/python2.7/lib-dynload/_ctypes.x86_64-linux-gnu.so \
+/usr/lib/python2.7/lib-dynload/_ctypes.x86_64-linux-gnu.so \
+/etc/ld.so.cache \
+/usr/lib/x86_64-linux-gnu/libffi.so.6 \
+/usr/lib/python2.7/ctypes/_endian.py \
+/usr/lib/python2.7/ctypes/_endian.pyc \
+/usr/lib/python2.7/lib-dynload/mmap.x86_64-linux-gnu.so \
+/usr/lib/python2.7/lib-dynload/mmap.x86_64-linux-gnu.so \
+/usr/lib/python2.7/lib-dynload/resource.x86_64-linux-gnu.so \
+/usr/lib/python2.7/lib-dynload/resource.x86_64-linux-gnu.so \
+/usr/lib/python2.7/subprocess.py \
+/usr/lib/python2.7/subprocess.pyc \
+/usr/lib/python2.7/threading.py \
+/usr/lib/python2.7/threading.pyc \
+/usr/lib/python2.7/pickle.py \
+/usr/lib/python2.7/pickle.pyc \
+/home/rminnich/projects/NERF/chipsec/chipsec/defines.py \
+/home/rminnich/projects/NERF/chipsec/chipsec/defines.pyc \
+/home/rminnich/projects/NERF/chipsec/chipsec_tools/__init__.py \
+/home/rminnich/projects/NERF/chipsec/chipsec_tools/__init__.pyc \
+/home/rminnich/projects/NERF/chipsec/chipsec_tools/efi_compressor.so \
+/home/rminnich/projects/NERF/chipsec/chipsec_tools/efi_compressor.so \
+/home/rminnich/projects/NERF/chipsec/chipsec/helper/osx/__init__.py \
+/home/rminnich/projects/NERF/chipsec/chipsec/helper/osx/__init__.pyc \
+/home/rminnich/projects/NERF/chipsec/chipsec/helper/win/__init__.py \
+/home/rminnich/projects/NERF/chipsec/chipsec/helper/win/__init__.pyc \
+/home/rminnich/projects/NERF/chipsec/chipsec/helper/rwe/__init__.py \
+/home/rminnich/projects/NERF/chipsec/chipsec/helper/rwe/__init__.pyc \
+/home/rminnich/projects/NERF/chipsec/chipsec/hal/__init__.py \
+/home/rminnich/projects/NERF/chipsec/chipsec/hal/__init__.pyc \
+/home/rminnich/projects/NERF/chipsec/chipsec/hal/cpu.py \
+/home/rminnich/projects/NERF/chipsec/chipsec/hal/cpu.pyc \
+/home/rminnich/projects/NERF/chipsec/chipsec/hal/acpi.py \
+/home/rminnich/projects/NERF/chipsec/chipsec/hal/acpi.pyc \
+/home/rminnich/projects/NERF/chipsec/chipsec/hal/acpi_tables.py \
+/home/rminnich/projects/NERF/chipsec/chipsec/hal/acpi_tables.pyc \
+/home/rminnich/projects/NERF/chipsec/chipsec/hal/hal_base.py \
+/home/rminnich/projects/NERF/chipsec/chipsec/hal/hal_base.pyc \
+/home/rminnich/projects/NERF/chipsec/chipsec/hal/uefi.py \
+/home/rminnich/projects/NERF/chipsec/chipsec/hal/uefi.pyc \
+/home/rminnich/projects/NERF/chipsec/chipsec/hal/mmio.py \
+/home/rminnich/projects/NERF/chipsec/chipsec/hal/mmio.pyc \
+/home/rminnich/projects/NERF/chipsec/chipsec/cfg/__init__.py \
+/home/rminnich/projects/NERF/chipsec/chipsec/cfg/__init__.pyc \
+/home/rminnich/projects/NERF/chipsec/chipsec/cfg/common.py \
+/home/rminnich/projects/NERF/chipsec/chipsec/cfg/common.pyc \
+/home/rminnich/projects/NERF/chipsec/chipsec/hal/spi.py \
+/home/rminnich/projects/NERF/chipsec/chipsec/hal/spi.pyc \
+/home/rminnich/projects/NERF/chipsec/chipsec/hal/uefi_platform.py \
+/home/rminnich/projects/NERF/chipsec/chipsec/hal/uefi_platform.pyc \
+/home/rminnich/projects/NERF/chipsec/chipsec/hal/uefi_common.py \
+/home/rminnich/projects/NERF/chipsec/chipsec/hal/uefi_common.pyc \
+/home/rminnich/projects/NERF/chipsec/chipsec/hal/paging.py \
+/home/rminnich/projects/NERF/chipsec/chipsec/hal/paging.pyc \
+/home/rminnich/projects/NERF/chipsec/chipsec/hal/io.py \
+/home/rminnich/projects/NERF/chipsec/chipsec/hal/io.pyc \
+/home/rminnich/projects/NERF/chipsec/chipsec/hal/iobar.py \
+/home/rminnich/projects/NERF/chipsec/chipsec/hal/iobar.pyc \
+/home/rminnich/projects/NERF/chipsec/chipsec/hal/msgbus.py \
+/home/rminnich/projects/NERF/chipsec/chipsec/hal/msgbus.pyc \
+/home/rminnich/projects/NERF/chipsec/chipsec/hal/msr.py \
+/home/rminnich/projects/NERF/chipsec/chipsec/hal/msr.pyc \
+/home/rminnich/projects/NERF/chipsec/chipsec/hal/pci.py \
+/home/rminnich/projects/NERF/chipsec/chipsec/hal/pci.pyc \
+/home/rminnich/projects/NERF/chipsec/chipsec/hal/pcidb.py \
+/home/rminnich/projects/NERF/chipsec/chipsec/hal/pcidb.pyc \
+/home/rminnich/projects/NERF/chipsec/chipsec/hal/physmem.py \
+/home/rminnich/projects/NERF/chipsec/chipsec/hal/physmem.pyc \
+/home/rminnich/projects/NERF/chipsec/chipsec/hal/ucode.py \
+/home/rminnich/projects/NERF/chipsec/chipsec/hal/ucode.pyc \
+/home/rminnich/projects/NERF/chipsec/chipsec/hal/igd.py \
+/home/rminnich/projects/NERF/chipsec/chipsec/hal/igd.pyc \
+/home/rminnich/projects/NERF/chipsec/chipsec/VERSION \
+/lib/x86_64-linux-gnu/libc.so.6 \
+
+.
+./chipsec_main.build
+./chipsec_main.build/build_definitions.h
+./chipsec_main.build/__constants.bin
+./chipsec_main.build/module.chipsec.hal.igd.c
+./chipsec_main.build/module.chipsec.cfg.common.o
+./chipsec_main.build/module.chipsec.helper.rwe.o
+./chipsec_main.build/fibers_x64.c
+./chipsec_main.build/module.chipsec.helper.linux.o
+./chipsec_main.build/CompiledCodeHelpers.c
+./chipsec_main.build/module.chipsec.hal.uefi_common.c
+./chipsec_main.build/swapfiber.S
+./chipsec_main.build/__frozen.c
+./chipsec_main.build/module.chipsec.hal.igd.o
+./chipsec_main.build/CompiledFunctionType.c
+./chipsec_main.build/module.chipsec.hal.ucode.o
+./chipsec_main.build/module.chipsec.hal.mmio.o
+./chipsec_main.build/module.chipsec.helper.oshelper.c
+./chipsec_main.build/module.chipsec.hal.spi.c
+./chipsec_main.build/swapfiber.o
+./chipsec_main.build/module.chipsec.helper.osx.o
+./chipsec_main.build/module.chipsec.hal.o
+./chipsec_main.build/module.__main__.c
+./chipsec_main.build/module.chipsec.hal.acpi_tables.o
+./chipsec_main.build/module.chipsec.module_common.o
+./chipsec_main.build/module.chipsec.hal.iobar.o
+./chipsec_main.build/__constants.o
+./chipsec_main.build/module.chipsec.cfg.common.c
+./chipsec_main.build/module.chipsec.hal.spi.o
+./chipsec_main.build/module.chipsec.hal.mmio.c
+./chipsec_main.build/MetaPathBasedLoader.o
+./chipsec_main.build/module.chipsec.helper.helpers.c
+./chipsec_main.build/CompiledMethodType.c
+./chipsec_main.build/CompiledCodeHelpers.o
+./chipsec_main.build/module.chipsec.hal.pci.c
+./chipsec_main.build/__frozen.o
+./chipsec_main.build/module.chipsec.helper.efi.o
+./chipsec_main.build/MainProgram.c
+./chipsec_main.build/module.chipsec.helper.rwe.c
+./chipsec_main.build/__helpers.h
+./chipsec_main.build/module.chipsec.defines.c
+./chipsec_main.build/module.chipsec.helper.osx.c
+./chipsec_main.build/module.chipsec.hal.uefi_platform.o
+./chipsec_main.build/module.chipsec.xmlout.c
+./chipsec_main.build/module.chipsec.hal.cpu.o
+./chipsec_main.build/module.chipsec.module_common.c
+./chipsec_main.build/module.chipsec.helper.c
+./chipsec_main.build/__internal__.c
+./chipsec_main.build/module.chipsec.hal.paging.c
+./chipsec_main.build/MainProgram.o
+./chipsec_main.build/module.chipsec.hal.hal_base.o
+./chipsec_main.build/module.chipsec.defines.o
+./chipsec_main.build/module.chipsec.chipset.o
+./chipsec_main.build/module.chipsec.hal.cpu.c
+./chipsec_main.build/MetaPathBasedLoader.c
+./chipsec_main.build/module.chipsec.file.c
+./chipsec_main.build/__internal__.o
+./chipsec_main.build/CompiledFunctionType.o
+./chipsec_main.build/__helpers.o
+./chipsec_main.build/module.chipsec.hal.uefi.o
+./chipsec_main.build/CompiledFrameType.o
+./chipsec_main.build/module.chipsec.hal.uefi_common.o
+./chipsec_main.build/InspectPatcher.c
+./chipsec_main.build/module.chipsec.module.c
+./chipsec_main.build/module.__main__.o
+./chipsec_main.build/module.chipsec.hal.iobar.c
+./chipsec_main.build/module.chipsec.helper.win.c
+./chipsec_main.build/module.chipsec.hal.acpi.o
+./chipsec_main.build/module.chipsec.helper.oshelper.o
+./chipsec_main.build/module.chipsec.hal.ucode.c
+./chipsec_main.build/module.chipsec.hal.paging.o
+./chipsec_main.build/module.chipsec.hal.io.c
+./chipsec_main.build/CompiledFrameType.c
+./chipsec_main.build/fibers_x64.o
+./chipsec_main.build/__helpers.c
+./chipsec_main.build/module.chipsec.c
+./chipsec_main.build/CompiledGeneratorType.c
+./chipsec_main.build/module.chipsec.module.o
+./chipsec_main.build/module.chipsec.hal.hal_base.c
+./chipsec_main.build/module.chipsec.helper.win.o
+./chipsec_main.build/module.chipsec.file.o
+./chipsec_main.build/module.chipsec.xmlout.o
+./chipsec_main.build/CompiledCellType.c
+./chipsec_main.build/module.chipsec.hal.pci.o
+./chipsec_main.build/module.chipsec.hal.c
+./chipsec_main.build/module.chipsec.logger.c
+./chipsec_main.build/module.chipsec.hal.msgbus.o
+./chipsec_main.build/module.chipsec.hal.io.o
+./chipsec_main.build/module.chipsec.helper.efi.c
+./chipsec_main.build/CompiledGeneratorType.o
+./chipsec_main.build/CompiledCellType.o
+./chipsec_main.build/module.chipsec.hal.msr.c
+./chipsec_main.build/module.chipsec.o
+./chipsec_main.build/module.chipsec.hal.uefi_platform.c
+./chipsec_main.build/module.chipsec.hal.physmem.c
+./chipsec_main.build/module.chipsec.hal.physmem.o
+./chipsec_main.build/module.chipsec.helper.helpers.o
+./chipsec_main.build/module.chipsec.logger.o
+./chipsec_main.build/module.chipsec.helper.o
+./chipsec_main.build/module.chipsec.hal.msr.o
+./chipsec_main.build/scons-report.txt
+./chipsec_main.build/__constants.c
+./chipsec_main.build/module.chipsec.hal.acpi_tables.c
+./chipsec_main.build/.sconsign.dblite
+./chipsec_main.build/module.chipsec.hal.pcidb.c
+./chipsec_main.build/module.chipsec.chipset.c
+./chipsec_main.build/module.chipsec.hal.msgbus.c
+./chipsec_main.build/module.chipsec.helper.linux.c
+./chipsec_main.build/InspectPatcher.o
+./chipsec_main.build/module.chipsec.hal.acpi.c
+./chipsec_main.build/module.chipsec.cfg.o
+./chipsec_main.build/module.chipsec.hal.pcidb.o
+./chipsec_main.build/module.chipsec.cfg.c
+./chipsec_main.build/module.chipsec.hal.uefi.c
+./chipsec_main.build/CompiledMethodType.o
+./chipsec_main.build/.sconsign
+./fuckfiles
+./README
+./dist
+./dist/chipsec_main
+./dist/chipsec_main/_codecs_kr.x86_64-linux-gnu.so
+./dist/chipsec_main/libbz2.so.1.0
+./dist/chipsec_main/chipsec_main
+./dist/chipsec_main/libcrypto.so.1.1
+./dist/chipsec_main/resource.x86_64-linux-gnu.so
+./dist/chipsec_main/readline.x86_64-linux-gnu.so
+./dist/chipsec_main/_hashlib.x86_64-linux-gnu.so
+./dist/chipsec_main/_codecs_hk.x86_64-linux-gnu.so
+./dist/chipsec_main/_ssl.x86_64-linux-gnu.so
+./dist/chipsec_main/libpython2.7.so.1.0
+./dist/chipsec_main/libreadline.so.7
+./dist/chipsec_main/_codecs_iso2022.x86_64-linux-gnu.so
+./dist/chipsec_main/_multibytecodec.x86_64-linux-gnu.so
+./dist/chipsec_main/libz.so.1
+./dist/chipsec_main/_json.x86_64-linux-gnu.so
+./dist/chipsec_main/_codecs_tw.x86_64-linux-gnu.so
+./dist/chipsec_main/pyexpat.x86_64-linux-gnu.so
+./dist/chipsec_main/_ctypes.x86_64-linux-gnu.so
+./dist/chipsec_main/_codecs_jp.x86_64-linux-gnu.so
+./dist/chipsec_main/chipsec
+./dist/chipsec_main/chipsec/xmlout.py
+./dist/chipsec_main/chipsec/helper
+./dist/chipsec_main/chipsec/helper/rwe
+./dist/chipsec_main/chipsec/helper/rwe/rwehelper.py
+./dist/chipsec_main/chipsec/helper/rwe/__init__.pyc
+./dist/chipsec_main/chipsec/helper/rwe/__init__.py
+./dist/chipsec_main/chipsec/helper/oshelper.py
+./dist/chipsec_main/chipsec/helper/helpers.py
+./dist/chipsec_main/chipsec/helper/__init__.pyc
+./dist/chipsec_main/chipsec/helper/efi
+./dist/chipsec_main/chipsec/helper/efi/efihelper.py
+./dist/chipsec_main/chipsec/helper/efi/__init__.pyc
+./dist/chipsec_main/chipsec/helper/efi/__init__.py
+./dist/chipsec_main/chipsec/helper/osx
+./dist/chipsec_main/chipsec/helper/osx/helper.py
+./dist/chipsec_main/chipsec/helper/osx/__init__.pyc
+./dist/chipsec_main/chipsec/helper/osx/__init__.py
+./dist/chipsec_main/chipsec/helper/linux
+./dist/chipsec_main/chipsec/helper/linux/helper.py
+./dist/chipsec_main/chipsec/helper/linux/Makefile
+./dist/chipsec_main/chipsec/helper/linux/__init__.pyc
+./dist/chipsec_main/chipsec/helper/linux/cores.so
+./dist/chipsec_main/chipsec/helper/linux/helper.pyc
+./dist/chipsec_main/chipsec/helper/linux/cores.c
+./dist/chipsec_main/chipsec/helper/linux/chipsec.ko
+./dist/chipsec_main/chipsec/helper/linux/__init__.py
+./dist/chipsec_main/chipsec/helper/oshelper.pyc
+./dist/chipsec_main/chipsec/helper/win
+./dist/chipsec_main/chipsec/helper/win/__init__.pyc
+./dist/chipsec_main/chipsec/helper/win/win32helper.py
+./dist/chipsec_main/chipsec/helper/win/__init__.py
+./dist/chipsec_main/chipsec/helper/helpers.pyc
+./dist/chipsec_main/chipsec/helper/.oshelper.py.swp
+./dist/chipsec_main/chipsec/helper/__init__.py
+./dist/chipsec_main/chipsec/modules
+./dist/chipsec_main/chipsec/modules/smm_dma.py
+./dist/chipsec_main/chipsec/modules/byt
+./dist/chipsec_main/chipsec/modules/byt/__init__.py
+./dist/chipsec_main/chipsec/modules/memconfig.pyc
+./dist/chipsec_main/chipsec/modules/common
+./dist/chipsec_main/chipsec/modules/common/spi_access.pyc
+./dist/chipsec_main/chipsec/modules/common/bios_kbrd_buffer.pyc
+./dist/chipsec_main/chipsec/modules/common/bios_smi.py
+./dist/chipsec_main/chipsec/modules/common/spi_desc.py
+./dist/chipsec_main/chipsec/modules/common/ia32cfg.pyc
+./dist/chipsec_main/chipsec/modules/common/smrr.pyc
+./dist/chipsec_main/chipsec/modules/common/uefi
+./dist/chipsec_main/chipsec/modules/common/uefi/s3bootscript.pyc
+./dist/chipsec_main/chipsec/modules/common/uefi/access_uefispec.pyc
+./dist/chipsec_main/chipsec/modules/common/uefi/access_uefispec.py
+./dist/chipsec_main/chipsec/modules/common/uefi/__init__.pyc
+./dist/chipsec_main/chipsec/modules/common/uefi/s3bootscript.py
+./dist/chipsec_main/chipsec/modules/common/uefi/__init__.py
+./dist/chipsec_main/chipsec/modules/common/smrr.py
+./dist/chipsec_main/chipsec/modules/common/spi_fdopss.py
+./dist/chipsec_main/chipsec/modules/common/bios_kbrd_buffer.py
+./dist/chipsec_main/chipsec/modules/common/spi_desc.pyc
+./dist/chipsec_main/chipsec/modules/common/bios_ts.pyc
+./dist/chipsec_main/chipsec/modules/common/bios_ts.py
+./dist/chipsec_main/chipsec/modules/common/__init__.pyc
+./dist/chipsec_main/chipsec/modules/common/rtclock.py
+./dist/chipsec_main/chipsec/modules/common/spi_access.py
+./dist/chipsec_main/chipsec/modules/common/spi_lock.pyc
+./dist/chipsec_main/chipsec/modules/common/bios_wp.pyc
+./dist/chipsec_main/chipsec/modules/common/bios_wp.py
+./dist/chipsec_main/chipsec/modules/common/spi_lock.py
+./dist/chipsec_main/chipsec/modules/common/secureboot
+./dist/chipsec_main/chipsec/modules/common/secureboot/__init__.pyc
+./dist/chipsec_main/chipsec/modules/common/secureboot/variables.py
+./dist/chipsec_main/chipsec/modules/common/secureboot/variables.pyc
+./dist/chipsec_main/chipsec/modules/common/secureboot/__init__.py
+./dist/chipsec_main/chipsec/modules/common/rtclock.pyc
+./dist/chipsec_main/chipsec/modules/common/smm.pyc
+./dist/chipsec_main/chipsec/modules/common/smm.py
+./dist/chipsec_main/chipsec/modules/common/bios_smi.pyc
+./dist/chipsec_main/chipsec/modules/common/ia32cfg.py
+./dist/chipsec_main/chipsec/modules/common/spi_fdopss.pyc
+./dist/chipsec_main/chipsec/modules/common/__init__.py
+./dist/chipsec_main/chipsec/modules/remap.py
+./dist/chipsec_main/chipsec/modules/bdw
+./dist/chipsec_main/chipsec/modules/bdw/__init__.py
+./dist/chipsec_main/chipsec/modules/hsw
+./dist/chipsec_main/chipsec/modules/hsw/__init__.py
+./dist/chipsec_main/chipsec/modules/memconfig.py
+./dist/chipsec_main/chipsec/modules/__init__.pyc
+./dist/chipsec_main/chipsec/modules/tools
+./dist/chipsec_main/chipsec/modules/tools/uefi
+./dist/chipsec_main/chipsec/modules/tools/uefi/whitelist.py
+./dist/chipsec_main/chipsec/modules/tools/uefi/blacklist.py
+./dist/chipsec_main/chipsec/modules/tools/uefi/blacklist.json
+./dist/chipsec_main/chipsec/modules/tools/uefi/uefivar_fuzz.py
+./dist/chipsec_main/chipsec/modules/tools/uefi/s3script_modify.py
+./dist/chipsec_main/chipsec/modules/tools/uefi/__init__.py
+./dist/chipsec_main/chipsec/modules/tools/cpu
+./dist/chipsec_main/chipsec/modules/tools/cpu/sinkhole.py
+./dist/chipsec_main/chipsec/modules/tools/cpu/__init__.py
+./dist/chipsec_main/chipsec/modules/tools/vmm
+./dist/chipsec_main/chipsec/modules/tools/vmm/venom.py
+./dist/chipsec_main/chipsec/modules/tools/vmm/msr_fuzz.py
+./dist/chipsec_main/chipsec/modules/tools/vmm/iofuzz.py
+./dist/chipsec_main/chipsec/modules/tools/vmm/hv
+./dist/chipsec_main/chipsec/modules/tools/vmm/hv/vmbus.py
+./dist/chipsec_main/chipsec/modules/tools/vmm/hv/initial_data.json
+./dist/chipsec_main/chipsec/modules/tools/vmm/hv/hypercall.py
+./dist/chipsec_main/chipsec/modules/tools/vmm/hv/synth_dev.py
+./dist/chipsec_main/chipsec/modules/tools/vmm/hv/hypercallfuzz.py
+./dist/chipsec_main/chipsec/modules/tools/vmm/hv/synth_kbd.py
+./dist/chipsec_main/chipsec/modules/tools/vmm/hv/define.py
+./dist/chipsec_main/chipsec/modules/tools/vmm/hv/vmbusfuzz.py
+./dist/chipsec_main/chipsec/modules/tools/vmm/hv/__init__.py
+./dist/chipsec_main/chipsec/modules/tools/vmm/hypercallfuzz.py
+./dist/chipsec_main/chipsec/modules/tools/vmm/xen
+./dist/chipsec_main/chipsec/modules/tools/vmm/xen/xsa188.py
+./dist/chipsec_main/chipsec/modules/tools/vmm/xen/hypercall.py
+./dist/chipsec_main/chipsec/modules/tools/vmm/xen/hypercallfuzz.py
+./dist/chipsec_main/chipsec/modules/tools/vmm/xen/define.py
+./dist/chipsec_main/chipsec/modules/tools/vmm/xen/__init__.py
+./dist/chipsec_main/chipsec/modules/tools/vmm/pcie_overlap_fuzz.py
+./dist/chipsec_main/chipsec/modules/tools/vmm/pcie_fuzz.py
+./dist/chipsec_main/chipsec/modules/tools/vmm/cpuid_fuzz.py
+./dist/chipsec_main/chipsec/modules/tools/vmm/common.py
+./dist/chipsec_main/chipsec/modules/tools/vmm/vbox
+./dist/chipsec_main/chipsec/modules/tools/vmm/vbox/vbox_crash_apicbase.py
+./dist/chipsec_main/chipsec/modules/tools/vmm/vbox/__init__.py
+./dist/chipsec_main/chipsec/modules/tools/vmm/__init__.py
+./dist/chipsec_main/chipsec/modules/tools/smm
+./dist/chipsec_main/chipsec/modules/tools/smm/smm_config.ini
+./dist/chipsec_main/chipsec/modules/tools/smm/rogue_mmio_bar.py
+./dist/chipsec_main/chipsec/modules/tools/smm/smm_ptr.py
+./dist/chipsec_main/chipsec/modules/tools/smm/__init__.py
+./dist/chipsec_main/chipsec/modules/tools/secureboot
+./dist/chipsec_main/chipsec/modules/tools/secureboot/te.cfg
+./dist/chipsec_main/chipsec/modules/tools/secureboot/te.py
+./dist/chipsec_main/chipsec/modules/tools/secureboot/__init__.py
+./dist/chipsec_main/chipsec/modules/tools/__init__.py
+./dist/chipsec_main/chipsec/modules/smm_dma.pyc
+./dist/chipsec_main/chipsec/modules/ivb
+./dist/chipsec_main/chipsec/modules/ivb/__init__.py
+./dist/chipsec_main/chipsec/modules/remap.pyc
+./dist/chipsec_main/chipsec/modules/__init__.py
+./dist/chipsec_main/chipsec/modules/snb
+./dist/chipsec_main/chipsec/modules/snb/__init__.py
+./dist/chipsec_main/chipsec/command.pyc
+./dist/chipsec_main/chipsec/file.pyc
+./dist/chipsec_main/chipsec/module.py
+./dist/chipsec_main/chipsec/module.pyc
+./dist/chipsec_main/chipsec/utilcmd
+./dist/chipsec_main/chipsec/utilcmd/reg_cmd.pyc
+./dist/chipsec_main/chipsec/utilcmd/iommu_cmd.py
+./dist/chipsec_main/chipsec/utilcmd/uefi_cmd.py
+./dist/chipsec_main/chipsec/utilcmd/spd_cmd.pyc
+./dist/chipsec_main/chipsec/utilcmd/cmos_cmd.pyc
+./dist/chipsec_main/chipsec/utilcmd/spidesc_cmd.pyc
+./dist/chipsec_main/chipsec/utilcmd/mem_cmd.pyc
+./dist/chipsec_main/chipsec/utilcmd/mem_cmd.py
+./dist/chipsec_main/chipsec/utilcmd/msr_cmd.py
+./dist/chipsec_main/chipsec/utilcmd/pci_cmd.py
+./dist/chipsec_main/chipsec/utilcmd/tpm_cmd.pyc
+./dist/chipsec_main/chipsec/utilcmd/cmos_cmd.py
+./dist/chipsec_main/chipsec/utilcmd/smbus_cmd.py
+./dist/chipsec_main/chipsec/utilcmd/mmcfg_cmd.py
+./dist/chipsec_main/chipsec/utilcmd/mmio_cmd.pyc
+./dist/chipsec_main/chipsec/utilcmd/chipset_cmd.pyc
+./dist/chipsec_main/chipsec/utilcmd/ec_cmd.pyc
+./dist/chipsec_main/chipsec/utilcmd/mmcfg_cmd.pyc
+./dist/chipsec_main/chipsec/utilcmd/acpi_cmd.py
+./dist/chipsec_main/chipsec/utilcmd/vmm_cmd.py
+./dist/chipsec_main/chipsec/utilcmd/interrupts_cmd.pyc
+./dist/chipsec_main/chipsec/utilcmd/chipset_cmd.py
+./dist/chipsec_main/chipsec/utilcmd/msgbus_cmd.py
+./dist/chipsec_main/chipsec/utilcmd/__init__.pyc
+./dist/chipsec_main/chipsec/utilcmd/pci_cmd.pyc
+./dist/chipsec_main/chipsec/utilcmd/io_cmd.py
+./dist/chipsec_main/chipsec/utilcmd/uefi_cmd.pyc
+./dist/chipsec_main/chipsec/utilcmd/smbus_cmd.pyc
+./dist/chipsec_main/chipsec/utilcmd/acpi_cmd.pyc
+./dist/chipsec_main/chipsec/utilcmd/msr_cmd.pyc
+./dist/chipsec_main/chipsec/utilcmd/spidesc_cmd.py
+./dist/chipsec_main/chipsec/utilcmd/spi_cmd.pyc
+./dist/chipsec_main/chipsec/utilcmd/msgbus_cmd.pyc
+./dist/chipsec_main/chipsec/utilcmd/ec_cmd.py
+./dist/chipsec_main/chipsec/utilcmd/cpu_cmd.py
+./dist/chipsec_main/chipsec/utilcmd/decode_cmd.pyc
+./dist/chipsec_main/chipsec/utilcmd/igd_cmd.pyc
+./dist/chipsec_main/chipsec/utilcmd/iommu_cmd.pyc
+./dist/chipsec_main/chipsec/utilcmd/decode_cmd.py
+./dist/chipsec_main/chipsec/utilcmd/ucode_cmd.pyc
+./dist/chipsec_main/chipsec/utilcmd/cpu_cmd.pyc
+./dist/chipsec_main/chipsec/utilcmd/desc_cmd.py
+./dist/chipsec_main/chipsec/utilcmd/mmio_cmd.py
+./dist/chipsec_main/chipsec/utilcmd/io_cmd.pyc
+./dist/chipsec_main/chipsec/utilcmd/spd_cmd.py
+./dist/chipsec_main/chipsec/utilcmd/desc_cmd.pyc
+./dist/chipsec_main/chipsec/utilcmd/interrupts_cmd.py
+./dist/chipsec_main/chipsec/utilcmd/ucode_cmd.py
+./dist/chipsec_main/chipsec/utilcmd/tpm_cmd.py
+./dist/chipsec_main/chipsec/utilcmd/vmm_cmd.pyc
+./dist/chipsec_main/chipsec/utilcmd/spi_cmd.py
+./dist/chipsec_main/chipsec/utilcmd/reg_cmd.py
+./dist/chipsec_main/chipsec/utilcmd/igd_cmd.py
+./dist/chipsec_main/chipsec/utilcmd/__init__.py
+./dist/chipsec_main/chipsec/VERSION
+./dist/chipsec_main/chipsec/file.py
+./dist/chipsec_main/chipsec/__init__.pyc
+./dist/chipsec_main/chipsec/cfg
+./dist/chipsec_main/chipsec/cfg/jkt.xml
+./dist/chipsec_main/chipsec/cfg/hsx.xml
+./dist/chipsec_main/chipsec/cfg/iommu.xml
+./dist/chipsec_main/chipsec/cfg/common.pyc
+./dist/chipsec_main/chipsec/cfg/ivt.xml
+./dist/chipsec_main/chipsec/cfg/bdw.xml
+./dist/chipsec_main/chipsec/cfg/skl.xml
+./dist/chipsec_main/chipsec/cfg/qrk.xml
+./dist/chipsec_main/chipsec/cfg/cfl.xml
+./dist/chipsec_main/chipsec/cfg/chipsec_cfg.xsd
+./dist/chipsec_main/chipsec/cfg/kbl.xml
+./dist/chipsec_main/chipsec/cfg/__init__.pyc
+./dist/chipsec_main/chipsec/cfg/apl.xml
+./dist/chipsec_main/chipsec/cfg/avn.xml
+./dist/chipsec_main/chipsec/cfg/template.xml
+./dist/chipsec_main/chipsec/cfg/common.xml
+./dist/chipsec_main/chipsec/cfg/common.py
+./dist/chipsec_main/chipsec/cfg/byt.xml
+./dist/chipsec_main/chipsec/cfg/cht.xml
+./dist/chipsec_main/chipsec/cfg/bdx.xml
+./dist/chipsec_main/chipsec/cfg/__init__.py
+./dist/chipsec_main/chipsec/cfg/hsw.xml
+./dist/chipsec_main/chipsec/command.py
+./dist/chipsec_main/chipsec/WARNING.txt
+./dist/chipsec_main/chipsec/logger.pyc
+./dist/chipsec_main/chipsec/module_common.pyc
+./dist/chipsec_main/chipsec/module_common.py
+./dist/chipsec_main/chipsec/chipset.pyc
+./dist/chipsec_main/chipsec/logger.py
+./dist/chipsec_main/chipsec/defines.pyc
+./dist/chipsec_main/chipsec/hal
+./dist/chipsec_main/chipsec/hal/spi_descriptor.pyc
+./dist/chipsec_main/chipsec/hal/msr.py
+./dist/chipsec_main/chipsec/hal/uefi_common.pyc
+./dist/chipsec_main/chipsec/hal/acpi.py
+./dist/chipsec_main/chipsec/hal/uefi_search.py
+./dist/chipsec_main/chipsec/hal/msr.pyc
+./dist/chipsec_main/chipsec/hal/acpi.pyc
+./dist/chipsec_main/chipsec/hal/ucode.py
+./dist/chipsec_main/chipsec/hal/igd.pyc
+./dist/chipsec_main/chipsec/hal/hal_base.pyc
+./dist/chipsec_main/chipsec/hal/uefi.pyc
+./dist/chipsec_main/chipsec/hal/tpm12_commands.pyc
+./dist/chipsec_main/chipsec/hal/spi_uefi.pyc
+./dist/chipsec_main/chipsec/hal/acpi_tables.pyc
+./dist/chipsec_main/chipsec/hal/pci.pyc
+./dist/chipsec_main/chipsec/hal/pcidb.pyc
+./dist/chipsec_main/chipsec/hal/acpi_tables.py
+./dist/chipsec_main/chipsec/hal/iommu.py
+./dist/chipsec_main/chipsec/hal/spd.pyc
+./dist/chipsec_main/chipsec/hal/ec.pyc
+./dist/chipsec_main/chipsec/hal/uefi_common.py
+./dist/chipsec_main/chipsec/hal/cpu.pyc
+./dist/chipsec_main/chipsec/hal/tpm.py
+./dist/chipsec_main/chipsec/hal/smbus.pyc
+./dist/chipsec_main/chipsec/hal/spi.pyc
+./dist/chipsec_main/chipsec/hal/ec.py
+./dist/chipsec_main/chipsec/hal/smbus.py
+./dist/chipsec_main/chipsec/hal/interrupts.pyc
+./dist/chipsec_main/chipsec/hal/physmem.pyc
+./dist/chipsec_main/chipsec/hal/spd.py
+./dist/chipsec_main/chipsec/hal/msgbus.pyc
+./dist/chipsec_main/chipsec/hal/paging.pyc
+./dist/chipsec_main/chipsec/hal/igd.py
+./dist/chipsec_main/chipsec/hal/__init__.pyc
+./dist/chipsec_main/chipsec/hal/msgbus.py
+./dist/chipsec_main/chipsec/hal/physmem.py
+./dist/chipsec_main/chipsec/hal/ucode.pyc
+./dist/chipsec_main/chipsec/hal/cmos.pyc
+./dist/chipsec_main/chipsec/hal/interrupts.py
+./dist/chipsec_main/chipsec/hal/tpm_eventlog.py
+./dist/chipsec_main/chipsec/hal/cpu.py
+./dist/chipsec_main/chipsec/hal/spi_descriptor.py
+./dist/chipsec_main/chipsec/hal/tpm_eventlog.pyc
+./dist/chipsec_main/chipsec/hal/hal_base.py
+./dist/chipsec_main/chipsec/hal/pcidb.py
+./dist/chipsec_main/chipsec/hal/spi_uefi.py
+./dist/chipsec_main/chipsec/hal/iommu.pyc
+./dist/chipsec_main/chipsec/hal/io.pyc
+./dist/chipsec_main/chipsec/hal/uefi.py
+./dist/chipsec_main/chipsec/hal/tpm.pyc
+./dist/chipsec_main/chipsec/hal/cpuid.py
+./dist/chipsec_main/chipsec/hal/tpm12_commands.py
+./dist/chipsec_main/chipsec/hal/iobar.py
+./dist/chipsec_main/chipsec/hal/cmos.py
+./dist/chipsec_main/chipsec/hal/uefi_platform.pyc
+./dist/chipsec_main/chipsec/hal/mmio.py
+./dist/chipsec_main/chipsec/hal/uefi_platform.py
+./dist/chipsec_main/chipsec/hal/mmio.pyc
+./dist/chipsec_main/chipsec/hal/vmm.py
+./dist/chipsec_main/chipsec/hal/spi.py
+./dist/chipsec_main/chipsec/hal/paging.py
+./dist/chipsec_main/chipsec/hal/vmm.pyc
+./dist/chipsec_main/chipsec/hal/io.py
+./dist/chipsec_main/chipsec/hal/iobar.pyc
+./dist/chipsec_main/chipsec/hal/__init__.py
+./dist/chipsec_main/chipsec/hal/pci.py
+./dist/chipsec_main/chipsec/xmlout.pyc
+./dist/chipsec_main/chipsec/chipset.py
+./dist/chipsec_main/chipsec/defines.py
+./dist/chipsec_main/chipsec/__init__.py
+./dist/chipsec_main/termios.x86_64-linux-gnu.so
+./dist/chipsec_main/libffi.so.6
+./dist/chipsec_main/libssl.so.1.1
+./dist/chipsec_main/libexpat.so.1
+./dist/chipsec_main/_codecs_cn.x86_64-linux-gnu.so
+./dist/chipsec_main/libtinfo.so.5
+./dist/chipsec_main/bz2.x86_64-linux-gnu.so
+./buildit
+./LICENSE
+./chipsec_tools
+./chipsec_tools/windows
+./chipsec_tools/windows/LzmaCompress.exe
+./chipsec_tools/windows/TianoCompress.exe
+./chipsec_tools/windows/__init__.py
+./chipsec_tools/efi_compressor.so
+./chipsec_tools/__init__.pyc
+./chipsec_tools/linux
+./chipsec_tools/linux/TianoCompress.bin
+./chipsec_tools/linux/LzmaCompress.bin
+./chipsec_tools/linux/__init__.py
+./chipsec_tools/compression
+./chipsec_tools/compression/Include
+./chipsec_tools/compression/Include/ProcessorBind.h
+./chipsec_tools/compression/Include/CompressionTypes.h
+./chipsec_tools/compression/Include/BaseTypes.h
+./chipsec_tools/compression/Include/EfiFile.h
+./chipsec_tools/compression/Tiano
+./chipsec_tools/compression/Tiano/EfiCompress.c
+./chipsec_tools/compression/Tiano/Decompress.h
+./chipsec_tools/compression/Tiano/TianoCompress.c
+./chipsec_tools/compression/Tiano/Compress.h
+./chipsec_tools/compression/Tiano/Decompress.c
+./chipsec_tools/compression/EfiCompressor.c
+./chipsec_tools/compression/LZMA
+./chipsec_tools/compression/LZMA/SDK
+./chipsec_tools/compression/LZMA/SDK/C
+./chipsec_tools/compression/LZMA/SDK/C/LzHash.h
+./chipsec_tools/compression/LZMA/SDK/C/LzFind.h
+./chipsec_tools/compression/LZMA/SDK/C/Bra.h
+./chipsec_tools/compression/LZMA/SDK/C/CpuArch.h
+./chipsec_tools/compression/LZMA/SDK/C/LzmaEnc.h
+./chipsec_tools/compression/LZMA/SDK/C/LzFind.c
+./chipsec_tools/compression/LZMA/SDK/C/LzmaDec.c
+./chipsec_tools/compression/LZMA/SDK/C/LzmaEnc.c
+./chipsec_tools/compression/LZMA/SDK/C/LzmaDec.h
+./chipsec_tools/compression/LZMA/SDK/C/Bra86.c
+./chipsec_tools/compression/LZMA/SDK/C/Types.h
+./chipsec_tools/compression/LZMA/SDK/C/7zVersion.h
+./chipsec_tools/compression/LZMA/LzmaCompress.h
+./chipsec_tools/compression/LZMA/LzmaDecompress.h
+./chipsec_tools/compression/LZMA/LzmaCompress.c
+./chipsec_tools/compression/LZMA/LzmaDecompress.c
+./chipsec_tools/edk2
+./chipsec_tools/edk2/PythonEFI
+./chipsec_tools/edk2/PythonEFI/cpu.asm
+./chipsec_tools/edk2/PythonEFI/edk2module.c
+./chipsec_tools/edk2/PythonEFI/cpu_ia32.asm
+./chipsec_tools/edk2/PythonEFI/cpu_ia32_gcc.s
+./chipsec_tools/edk2/PythonEFI/build
+./chipsec_tools/edk2/PythonEFI/build/build_edk2_python.cmd
+./chipsec_tools/edk2/PythonEFI/build/build_edk2_python.sh
+./chipsec_tools/edk2/PythonEFI/build/compilePythonEDK2.py
+./chipsec_tools/edk2/COPYING
+./chipsec_tools/__init__.py
+./chipsec_main.dist
+./chipsec_main.dist/dbm.so
+./chipsec_main.dist/_lsprof.so
+./chipsec_main.dist/_codecs_hk.so
+./chipsec_main.dist/_elementtree.so
+./chipsec_main.dist/_curses.so
+./chipsec_main.dist/_codecs_iso2022.so
+./chipsec_main.dist/libbz2.so.1.0
+./chipsec_main.dist/parser.so
+./chipsec_main.dist/libcrypto.so.1.1
+./chipsec_main.dist/_multiprocessing.so
+./chipsec_main.dist/resource.so
+./chipsec_main.dist/_ctypes.so
+./chipsec_main.dist/_codecs_kr.so
+./chipsec_main.dist/libutil.so.1
+./chipsec_main.dist/termios.so
+./chipsec_main.dist/libpython2.7.so.1.0
+./chipsec_main.dist/libreadline.so.7
+./chipsec_main.dist/libsqlite3.so.0
+./chipsec_main.dist/_ssl.so
+./chipsec_main.dist/readline.so
+./chipsec_main.dist/chipsec_main.exe
+./chipsec_main.dist/_sqlite3.so
+./chipsec_main.dist/libz.so.1
+./chipsec_main.dist/_hotshot.so
+./chipsec_main.dist/pyexpat.so
+./chipsec_main.dist/bz2.so
+./chipsec_main.dist/_codecs_cn.so
+./chipsec_main.dist/_hashlib.so
+./chipsec_main.dist/_bsddb.so
+./chipsec_main.dist/_codecs_tw.so
+./chipsec_main.dist/libncursesw.so.5
+./chipsec_main.dist/_multibytecodec.so
+./chipsec_main.dist/libpanelw.so.5
+./chipsec_main.dist/libdb-5.3.so
+./chipsec_main.dist/_json.so
+./chipsec_main.dist/libffi.so.6
+./chipsec_main.dist/libuuid.so.1
+./chipsec_main.dist/libssl.so.1.1
+./chipsec_main.dist/mmap.so
+./chipsec_main.dist/_csv.so
+./chipsec_main.dist/libexpat.so.1
+./chipsec_main.dist/libtinfo.so.5
+./chipsec_main.dist/_codecs_jp.so
+./chipsec_main.dist/_curses_panel.so
+./scripts
+./scripts/build_exe_win7-amd64.py
+./scripts/build_exe_win7-x86.py
+./chipsec_main.c
+./__install__
+./__install__/UEFI
+./__install__/UEFI/chipsec_uefi_i586.zip
+./__install__/UEFI/chipsec_uefi_ia32.zip
+./__install__/UEFI/chipsec_uefi_x64.zip
+./tests
+./tests/hardware
+./tests/hardware/test_generic.py
+./tests/hardware/test_elitebook_1040_ubuntu.py
+./tests/hardware/test_x1_carbon_ubuntu.py
+./tests/hardware/test_ubuntu.py
+./tests/hardware/test_z420_ubuntu.py
+./tests/hardware/__init__.py
+./tests/software
+./tests/software/test_acpi.py
+./tests/software/test_platform.py
+./tests/software/util.py
+./tests/software/test_msr.py
+./tests/software/test_tpm_eventlog.py
+./tests/software/test_cmos.py
+./tests/software/test_main.py
+./tests/software/test_spi.py
+./tests/software/test_reg.py
+./tests/software/mock_helper.py
+./tests/software/test_desc.py
+./tests/software/__init__.py
+./tests/__init__.py
+./chipsec_main.bin
+./chipsec_main.exe
+./AUTHORS
+./chipsec_main.py
+./drivers
+./drivers/win7
+./drivers/win7/i386
+./drivers/win7/i386/cpu.asm
+./drivers/win7/SOURCES
+./drivers/win7/include
+./drivers/win7/include/chipsec.h
+./drivers/win7/include/cpu.h
+./drivers/win7/amd64
+./drivers/win7/amd64/cpu.asm
+./drivers/win7/driver.h
+./drivers/win7/driver.c
+./drivers/win7/MAKEFILE
+./drivers/win7/readme
+./drivers/win7/chipsec_hlpr.rc
+./drivers/win7/sign
+./drivers/win7/sign/sign64_sys.bat
+./drivers/osx
+./drivers/osx/README
+./drivers/osx/chipsec.xcodeproj
+./drivers/osx/chipsec.xcodeproj/project.pbxproj
+./drivers/osx/chipsec.xcodeproj/xcuserdata
+./drivers/osx/chipsec.xcodeproj/xcuserdata/tweek.xcuserdatad
+./drivers/osx/chipsec.xcodeproj/xcuserdata/tweek.xcuserdatad/xcschemes
+./drivers/osx/chipsec.xcodeproj/xcuserdata/tweek.xcuserdatad/xcschemes/xcschememanagement.plist
+./drivers/osx/chipsec.xcodeproj/xcuserdata/tweek.xcuserdatad/xcschemes/chipsec.xcscheme
+./drivers/osx/chipsec.xcodeproj/project.xcworkspace
+./drivers/osx/chipsec.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+./drivers/osx/chipsec-test
+./drivers/osx/chipsec-test/main.c
+./drivers/osx/chipsec
+./drivers/osx/chipsec/chipsec.cpp
+./drivers/osx/chipsec/cpu.asm
+./drivers/osx/chipsec/chipsec_ioctl.h
+./drivers/osx/chipsec/chipsec.h
+./drivers/osx/chipsec/Info.plist
+./drivers/osx/chipsec/cpu.h
+./drivers/linux
+./drivers/linux/i386
+./drivers/linux/i386/cpu.asm
+./drivers/linux/chipsec_km.c
+./drivers/linux/README
+./drivers/linux/dkms.conf
+./drivers/linux/.chipsec.o.cmd
+./drivers/linux/Module.symvers
+./drivers/linux/modules.order
+./drivers/linux/include
+./drivers/linux/include/chipsec.h
+./drivers/linux/.tmp_versions
+./drivers/linux/.tmp_versions/chipsec.mod
+./drivers/linux/AUTHORS
+./drivers/linux/amd64
+./drivers/linux/amd64/cpu.asm
+./drivers/linux/amd64/cpu.o
+./drivers/linux/Makefile
+./drivers/linux/chipsec.mod.c
+./drivers/linux/WARNING.txt
+./drivers/linux/chipsec_km.o
+./drivers/linux/chipsec.mod.o
+./drivers/linux/chipsec.ko
+./drivers/linux/.cache.mk
+./drivers/linux/.chipsec.ko.cmd
+./drivers/linux/COPYING
+./drivers/linux/chipsec.o
+./drivers/linux/.chipsec.mod.o.cmd
+./drivers/linux/.chipsec_km.o.cmd
+./docs
+./docs/sphinx
+./docs/sphinx/description.rst
+./docs/sphinx/conf.py
+./docs/sphinx/osxinstall.rst
+./docs/sphinx/_templates
+./docs/sphinx/_templates/cover.pdf
+./docs/sphinx/_templates/sstylesheet.style
+./docs/sphinx/_templates/layout.html
+./docs/sphinx/_templates/scover.tmpl
+./docs/sphinx/_templates/page.pdf
+./docs/sphinx/_templates/theme.conf
+./docs/sphinx/compandstruct.rst
+./docs/sphinx/winstall.rst
+./docs/sphinx/options.rst
+./docs/sphinx/index.rst
+./docs/sphinx/installation.rst
+./docs/sphinx/uefinstall.rst
+./docs/sphinx/usage.rst
+./docs/sphinx/mod.rst
+./docs/sphinx/_images
+./docs/sphinx/_images/chipsec.jpg
+./docs/sphinx/_images/chipsec_logo.jpg
+./docs/sphinx/_images/chipsec_logo_transparent.png
+./docs/sphinx/modules.rst
+./docs/sphinx/removeStrRst.py
+./docs/sphinx/linuxinstall.rst
+./docs/create_manual.cmd
+./chipsec_util.py
+./chipsec-manual.pdf
+./debian
+./debian/copyright
+./debian/docs
+./debian/chipsec-dkms.dkms
+./debian/rules
+./debian/changelog
+./debian/compat
+./debian/source
+./debian/source/format
+./debian/control
+./.travis.yml
+./run
+./.git
+./.git/description
+./.git/ORIG_HEAD
+./.git/refs
+./.git/refs/tags
+./.git/refs/heads
+./.git/refs/heads/master
+./.git/refs/remotes
+./.git/refs/remotes/origin
+./.git/refs/remotes/origin/HEAD
+./.git/refs/remotes/origin/master
+./.git/index
+./.git/HEAD
+./.git/objects
+./.git/objects/pack
+./.git/objects/pack/pack-70d547199303d40ed0ac99fb66198f087ad6ee03.idx
+./.git/objects/pack/pack-70d547199303d40ed0ac99fb66198f087ad6ee03.pack
+./.git/objects/3b
+./.git/objects/3b/a739cd9ad10697f351aa8ade88c77ca7851620
+./.git/objects/info
+./.git/objects/f7
+./.git/objects/f7/aba615e451a0653bcd87ef5d93e03caeb464d1
+./.git/objects/f0
+./.git/objects/f0/1d06c01b22e8afeec4f4ff20cbd5abd2806281
+./.git/FETCH_HEAD
+./.git/info
+./.git/info/exclude
+./.git/packed-refs
+./.git/hooks
+./.git/hooks/pre-rebase.sample
+./.git/hooks/pre-receive.sample
+./.git/hooks/applypatch-msg.sample
+./.git/hooks/post-update.sample
+./.git/hooks/commit-msg.sample
+./.git/hooks/pre-push.sample
+./.git/hooks/pre-applypatch.sample
+./.git/hooks/pre-commit.sample
+./.git/hooks/prepare-commit-msg.sample
+./.git/hooks/update.sample
+./.git/config
+./.git/logs
+./.git/logs/refs
+./.git/logs/refs/heads
+./.git/logs/refs/heads/master
+./.git/logs/refs/remotes
+./.git/logs/refs/remotes/origin
+./.git/logs/refs/remotes/origin/HEAD
+./.git/logs/refs/remotes/origin/master
+./.git/logs/HEAD
+./.git/branches
+./shit
+./LOG
+./chipsec_util.pyc
+./chipsec
+./chipsec/xmlout.py
+./chipsec/helper
+./chipsec/helper/rwe
+./chipsec/helper/rwe/rwehelper.py
+./chipsec/helper/rwe/__init__.pyc
+./chipsec/helper/rwe/__init__.py
+./chipsec/helper/oshelper.py
+./chipsec/helper/helpers.py
+./chipsec/helper/__init__.pyc
+./chipsec/helper/efi
+./chipsec/helper/efi/efihelper.py
+./chipsec/helper/efi/__init__.pyc
+./chipsec/helper/efi/__init__.py
+./chipsec/helper/osx
+./chipsec/helper/osx/helper.py
+./chipsec/helper/osx/__init__.pyc
+./chipsec/helper/osx/__init__.py
+./chipsec/helper/linux
+./chipsec/helper/linux/helper.py
+./chipsec/helper/linux/Makefile
+./chipsec/helper/linux/__init__.pyc
+./chipsec/helper/linux/cores.so
+./chipsec/helper/linux/helper.pyc
+./chipsec/helper/linux/cores.c
+./chipsec/helper/linux/chipsec.ko
+./chipsec/helper/linux/__init__.py
+./chipsec/helper/oshelper.pyc
+./chipsec/helper/win
+./chipsec/helper/win/__init__.pyc
+./chipsec/helper/win/win32helper.py
+./chipsec/helper/win/__init__.py
+./chipsec/helper/helpers.pyc
+./chipsec/helper/__init__.py
+./chipsec/modules
+./chipsec/modules/smm_dma.py
+./chipsec/modules/byt
+./chipsec/modules/byt/__init__.py
+./chipsec/modules/memconfig.pyc
+./chipsec/modules/common
+./chipsec/modules/common/spi_access.pyc
+./chipsec/modules/common/bios_kbrd_buffer.pyc
+./chipsec/modules/common/bios_smi.py
+./chipsec/modules/common/spi_desc.py
+./chipsec/modules/common/ia32cfg.pyc
+./chipsec/modules/common/smrr.pyc
+./chipsec/modules/common/uefi
+./chipsec/modules/common/uefi/s3bootscript.pyc
+./chipsec/modules/common/uefi/access_uefispec.pyc
+./chipsec/modules/common/uefi/access_uefispec.py
+./chipsec/modules/common/uefi/__init__.pyc
+./chipsec/modules/common/uefi/s3bootscript.py
+./chipsec/modules/common/uefi/__init__.py
+./chipsec/modules/common/smrr.py
+./chipsec/modules/common/spi_fdopss.py
+./chipsec/modules/common/bios_kbrd_buffer.py
+./chipsec/modules/common/spi_desc.pyc
+./chipsec/modules/common/bios_ts.pyc
+./chipsec/modules/common/bios_ts.py
+./chipsec/modules/common/__init__.pyc
+./chipsec/modules/common/rtclock.py
+./chipsec/modules/common/spi_access.py
+./chipsec/modules/common/spi_lock.pyc
+./chipsec/modules/common/bios_wp.pyc
+./chipsec/modules/common/bios_wp.py
+./chipsec/modules/common/spi_lock.py
+./chipsec/modules/common/secureboot
+./chipsec/modules/common/secureboot/__init__.pyc
+./chipsec/modules/common/secureboot/variables.py
+./chipsec/modules/common/secureboot/variables.pyc
+./chipsec/modules/common/secureboot/__init__.py
+./chipsec/modules/common/rtclock.pyc
+./chipsec/modules/common/smm.pyc
+./chipsec/modules/common/smm.py
+./chipsec/modules/common/bios_smi.pyc
+./chipsec/modules/common/ia32cfg.py
+./chipsec/modules/common/spi_fdopss.pyc
+./chipsec/modules/common/__init__.py
+./chipsec/modules/remap.py
+./chipsec/modules/bdw
+./chipsec/modules/bdw/__init__.py
+./chipsec/modules/hsw
+./chipsec/modules/hsw/__init__.py
+./chipsec/modules/memconfig.py
+./chipsec/modules/__init__.pyc
+./chipsec/modules/tools
+./chipsec/modules/tools/uefi
+./chipsec/modules/tools/uefi/whitelist.py
+./chipsec/modules/tools/uefi/blacklist.py
+./chipsec/modules/tools/uefi/blacklist.json
+./chipsec/modules/tools/uefi/uefivar_fuzz.py
+./chipsec/modules/tools/uefi/s3script_modify.py
+./chipsec/modules/tools/uefi/__init__.py
+./chipsec/modules/tools/cpu
+./chipsec/modules/tools/cpu/sinkhole.py
+./chipsec/modules/tools/cpu/__init__.py
+./chipsec/modules/tools/vmm
+./chipsec/modules/tools/vmm/venom.py
+./chipsec/modules/tools/vmm/msr_fuzz.py
+./chipsec/modules/tools/vmm/iofuzz.py
+./chipsec/modules/tools/vmm/hv
+./chipsec/modules/tools/vmm/hv/vmbus.py
+./chipsec/modules/tools/vmm/hv/initial_data.json
+./chipsec/modules/tools/vmm/hv/hypercall.py
+./chipsec/modules/tools/vmm/hv/synth_dev.py
+./chipsec/modules/tools/vmm/hv/hypercallfuzz.py
+./chipsec/modules/tools/vmm/hv/synth_kbd.py
+./chipsec/modules/tools/vmm/hv/define.py
+./chipsec/modules/tools/vmm/hv/vmbusfuzz.py
+./chipsec/modules/tools/vmm/hv/__init__.py
+./chipsec/modules/tools/vmm/hypercallfuzz.py
+./chipsec/modules/tools/vmm/xen
+./chipsec/modules/tools/vmm/xen/xsa188.py
+./chipsec/modules/tools/vmm/xen/hypercall.py
+./chipsec/modules/tools/vmm/xen/hypercallfuzz.py
+./chipsec/modules/tools/vmm/xen/define.py
+./chipsec/modules/tools/vmm/xen/__init__.py
+./chipsec/modules/tools/vmm/pcie_overlap_fuzz.py
+./chipsec/modules/tools/vmm/pcie_fuzz.py
+./chipsec/modules/tools/vmm/cpuid_fuzz.py
+./chipsec/modules/tools/vmm/common.py
+./chipsec/modules/tools/vmm/vbox
+./chipsec/modules/tools/vmm/vbox/vbox_crash_apicbase.py
+./chipsec/modules/tools/vmm/vbox/__init__.py
+./chipsec/modules/tools/vmm/__init__.py
+./chipsec/modules/tools/smm
+./chipsec/modules/tools/smm/smm_config.ini
+./chipsec/modules/tools/smm/rogue_mmio_bar.py
+./chipsec/modules/tools/smm/smm_ptr.py
+./chipsec/modules/tools/smm/__init__.py
+./chipsec/modules/tools/secureboot
+./chipsec/modules/tools/secureboot/te.cfg
+./chipsec/modules/tools/secureboot/te.py
+./chipsec/modules/tools/secureboot/__init__.py
+./chipsec/modules/tools/__init__.py
+./chipsec/modules/smm_dma.pyc
+./chipsec/modules/ivb
+./chipsec/modules/ivb/__init__.py
+./chipsec/modules/remap.pyc
+./chipsec/modules/__init__.py
+./chipsec/modules/snb
+./chipsec/modules/snb/__init__.py
+./chipsec/command.pyc
+./chipsec/file.pyc
+./chipsec/module.py
+./chipsec/module.pyc
+./chipsec/utilcmd
+./chipsec/utilcmd/reg_cmd.pyc
+./chipsec/utilcmd/iommu_cmd.py
+./chipsec/utilcmd/uefi_cmd.py
+./chipsec/utilcmd/spd_cmd.pyc
+./chipsec/utilcmd/cmos_cmd.pyc
+./chipsec/utilcmd/spidesc_cmd.pyc
+./chipsec/utilcmd/mem_cmd.pyc
+./chipsec/utilcmd/mem_cmd.py
+./chipsec/utilcmd/msr_cmd.py
+./chipsec/utilcmd/pci_cmd.py
+./chipsec/utilcmd/tpm_cmd.pyc
+./chipsec/utilcmd/cmos_cmd.py
+./chipsec/utilcmd/smbus_cmd.py
+./chipsec/utilcmd/mmcfg_cmd.py
+./chipsec/utilcmd/mmio_cmd.pyc
+./chipsec/utilcmd/chipset_cmd.pyc
+./chipsec/utilcmd/ec_cmd.pyc
+./chipsec/utilcmd/mmcfg_cmd.pyc
+./chipsec/utilcmd/acpi_cmd.py
+./chipsec/utilcmd/vmm_cmd.py
+./chipsec/utilcmd/interrupts_cmd.pyc
+./chipsec/utilcmd/chipset_cmd.py
+./chipsec/utilcmd/msgbus_cmd.py
+./chipsec/utilcmd/__init__.pyc
+./chipsec/utilcmd/pci_cmd.pyc
+./chipsec/utilcmd/io_cmd.py
+./chipsec/utilcmd/uefi_cmd.pyc
+./chipsec/utilcmd/smbus_cmd.pyc
+./chipsec/utilcmd/acpi_cmd.pyc
+./chipsec/utilcmd/msr_cmd.pyc
+./chipsec/utilcmd/spidesc_cmd.py
+./chipsec/utilcmd/spi_cmd.pyc
+./chipsec/utilcmd/msgbus_cmd.pyc
+./chipsec/utilcmd/ec_cmd.py
+./chipsec/utilcmd/cpu_cmd.py
+./chipsec/utilcmd/decode_cmd.pyc
+./chipsec/utilcmd/igd_cmd.pyc
+./chipsec/utilcmd/iommu_cmd.pyc
+./chipsec/utilcmd/decode_cmd.py
+./chipsec/utilcmd/ucode_cmd.pyc
+./chipsec/utilcmd/cpu_cmd.pyc
+./chipsec/utilcmd/desc_cmd.py
+./chipsec/utilcmd/mmio_cmd.py
+./chipsec/utilcmd/io_cmd.pyc
+./chipsec/utilcmd/spd_cmd.py
+./chipsec/utilcmd/desc_cmd.pyc
+./chipsec/utilcmd/interrupts_cmd.py
+./chipsec/utilcmd/ucode_cmd.py
+./chipsec/utilcmd/tpm_cmd.py
+./chipsec/utilcmd/vmm_cmd.pyc
+./chipsec/utilcmd/spi_cmd.py
+./chipsec/utilcmd/reg_cmd.py
+./chipsec/utilcmd/igd_cmd.py
+./chipsec/utilcmd/__init__.py
+./chipsec/VERSION
+./chipsec/file.py
+./chipsec/__init__.pyc
+./chipsec/cfg
+./chipsec/cfg/jkt.xml
+./chipsec/cfg/hsx.xml
+./chipsec/cfg/iommu.xml
+./chipsec/cfg/common.pyc
+./chipsec/cfg/ivt.xml
+./chipsec/cfg/bdw.xml
+./chipsec/cfg/skl.xml
+./chipsec/cfg/qrk.xml
+./chipsec/cfg/cfl.xml
+./chipsec/cfg/chipsec_cfg.xsd
+./chipsec/cfg/kbl.xml
+./chipsec/cfg/__init__.pyc
+./chipsec/cfg/apl.xml
+./chipsec/cfg/avn.xml
+./chipsec/cfg/template.xml
+./chipsec/cfg/common.xml
+./chipsec/cfg/common.py
+./chipsec/cfg/byt.xml
+./chipsec/cfg/cht.xml
+./chipsec/cfg/bdx.xml
+./chipsec/cfg/__init__.py
+./chipsec/cfg/hsw.xml
+./chipsec/command.py
+./chipsec/WARNING.txt
+./chipsec/logger.pyc
+./chipsec/module_common.pyc
+./chipsec/module_common.py
+./chipsec/chipset.pyc
+./chipsec/logger.py
+./chipsec/defines.pyc
+./chipsec/hal
+./chipsec/hal/spi_descriptor.pyc
+./chipsec/hal/msr.py
+./chipsec/hal/uefi_common.pyc
+./chipsec/hal/acpi.py
+./chipsec/hal/uefi_search.py
+./chipsec/hal/msr.pyc
+./chipsec/hal/acpi.pyc
+./chipsec/hal/ucode.py
+./chipsec/hal/igd.pyc
+./chipsec/hal/hal_base.pyc
+./chipsec/hal/uefi.pyc
+./chipsec/hal/tpm12_commands.pyc
+./chipsec/hal/spi_uefi.pyc
+./chipsec/hal/acpi_tables.pyc
+./chipsec/hal/pci.pyc
+./chipsec/hal/pcidb.pyc
+./chipsec/hal/acpi_tables.py
+./chipsec/hal/iommu.py
+./chipsec/hal/spd.pyc
+./chipsec/hal/ec.pyc
+./chipsec/hal/uefi_common.py
+./chipsec/hal/cpu.pyc
+./chipsec/hal/tpm.py
+./chipsec/hal/smbus.pyc
+./chipsec/hal/spi.pyc
+./chipsec/hal/ec.py
+./chipsec/hal/smbus.py
+./chipsec/hal/interrupts.pyc
+./chipsec/hal/physmem.pyc
+./chipsec/hal/spd.py
+./chipsec/hal/msgbus.pyc
+./chipsec/hal/paging.pyc
+./chipsec/hal/igd.py
+./chipsec/hal/__init__.pyc
+./chipsec/hal/msgbus.py
+./chipsec/hal/physmem.py
+./chipsec/hal/ucode.pyc
+./chipsec/hal/cmos.pyc
+./chipsec/hal/interrupts.py
+./chipsec/hal/tpm_eventlog.py
+./chipsec/hal/cpu.py
+./chipsec/hal/spi_descriptor.py
+./chipsec/hal/tpm_eventlog.pyc
+./chipsec/hal/hal_base.py
+./chipsec/hal/pcidb.py
+./chipsec/hal/spi_uefi.py
+./chipsec/hal/iommu.pyc
+./chipsec/hal/io.pyc
+./chipsec/hal/uefi.py
+./chipsec/hal/tpm.pyc
+./chipsec/hal/cpuid.py
+./chipsec/hal/tpm12_commands.py
+./chipsec/hal/iobar.py
+./chipsec/hal/cmos.py
+./chipsec/hal/uefi_platform.pyc
+./chipsec/hal/mmio.py
+./chipsec/hal/uefi_platform.py
+./chipsec/hal/mmio.pyc
+./chipsec/hal/vmm.py
+./chipsec/hal/spi.py
+./chipsec/hal/paging.py
+./chipsec/hal/vmm.pyc
+./chipsec/hal/io.py
+./chipsec/hal/iobar.pyc
+./chipsec/hal/__init__.py
+./chipsec/hal/pci.py
+./chipsec/xmlout.pyc
+./chipsec/chipset.py
+./chipsec/defines.py
+./chipsec/__init__.py
+./COPYING
+./README.md
+./build
+./build/chipsec_main
+./build/chipsec_main/chipsec_main
+./build/chipsec_main/EXE-00.toc
+./build/chipsec_main/PKG-00.toc
+./build/chipsec_main/xref-chipsec_main.html
+./build/chipsec_main/PYZ-00.toc
+./build/chipsec_main/PYZ-00.pyz
+./build/chipsec_main/warn-chipsec_main.txt
+./build/chipsec_main/COLLECT-00.toc
+./build/chipsec_main/PKG-00.pkg
+./build/chipsec_main/Analysis-00.toc
+./build/temp.linux-x86_64-2.7
+./build/temp.linux-x86_64-2.7/chipsec_tools
+./build/temp.linux-x86_64-2.7/chipsec_tools/compression
+./build/temp.linux-x86_64-2.7/chipsec_tools/compression/EfiCompressor.o
+./build/temp.linux-x86_64-2.7/chipsec_tools/compression/Tiano
+./build/temp.linux-x86_64-2.7/chipsec_tools/compression/Tiano/EfiCompress.o
+./build/temp.linux-x86_64-2.7/chipsec_tools/compression/Tiano/Decompress.o
+./build/temp.linux-x86_64-2.7/chipsec_tools/compression/Tiano/TianoCompress.o
+./build/temp.linux-x86_64-2.7/chipsec_tools/compression/LZMA
+./build/temp.linux-x86_64-2.7/chipsec_tools/compression/LZMA/SDK
+./build/temp.linux-x86_64-2.7/chipsec_tools/compression/LZMA/SDK/C
+./build/temp.linux-x86_64-2.7/chipsec_tools/compression/LZMA/SDK/C/LzFind.o
+./build/temp.linux-x86_64-2.7/chipsec_tools/compression/LZMA/SDK/C/Bra86.o
+./build/temp.linux-x86_64-2.7/chipsec_tools/compression/LZMA/SDK/C/LzmaDec.o
+./build/temp.linux-x86_64-2.7/chipsec_tools/compression/LZMA/SDK/C/LzmaEnc.o
+./build/temp.linux-x86_64-2.7/chipsec_tools/compression/LZMA/LzmaCompress.o
+./build/temp.linux-x86_64-2.7/chipsec_tools/compression/LZMA/LzmaDecompress.o
+./build/temp.linux-x86_64-2.7/chipsec
+./build/temp.linux-x86_64-2.7/chipsec/helper
+./build/temp.linux-x86_64-2.7/chipsec/helper/linux
+./build/temp.linux-x86_64-2.7/chipsec/helper/linux/cores.o
+./build/lib.linux-x86_64-2.7
+./build/lib.linux-x86_64-2.7/chipsec_tools
+./build/lib.linux-x86_64-2.7/chipsec_tools/efi_compressor.so
+./build/lib.linux-x86_64-2.7/chipsec
+./build/lib.linux-x86_64-2.7/chipsec/helper
+./build/lib.linux-x86_64-2.7/chipsec/helper/linux
+./build/lib.linux-x86_64-2.7/chipsec/helper/linux/cores.so
+./chipsec_main.spec
