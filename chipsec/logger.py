@@ -46,7 +46,7 @@ except ImportError:
     has_WConio = False
     #raiseImportError('WConio package not installed. No colored output')
 
-LOG_PATH                = os.path.join( os.getcwd(), "logs" )
+LOG_PATH                = os.path.join( "/logs" )
 #LOG_STATUS_FILE_NAME    = ""
 #LOG_COMPLETED_FILE_NAME = ""
 
