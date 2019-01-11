@@ -143,28 +143,6 @@ class LinuxHelper(Helper):
         phys_mem_access_prot = ""
         a1 = ""
         a2 = ""
-        if self.SUPPORT_KERNEL26_GET_PAGE_IS_RAM:
-            page_is_ram = self.get_page_is_ram()
-            if not page_is_ram:
-                if logger().VERBOSE:
-                    logger().log("Cannot find symbol 'page_is_ram'")
-            else:
-                a1 = "a1=0x%s" % page_is_ram
-        if self.SUPPORT_KERNEL26_GET_PHYS_MEM_ACCESS_PROT:
-            phys_mem_access_prot = self.get_phys_mem_access_prot()
-            if not phys_mem_access_prot:
-                if logger().VERBOSE:
-                    logger().log("Cannot find symbol 'phys_mem_access_prot'")
-            else:
-                a2 = "a2=0x%s" % phys_mem_access_prot
-
-        driver_path = os.path.join(chipsec.file.get_main_dir(), "chipsec", "helper" ,"linux", "chipsec.ko" )
-        if not os.path.exists(driver_path):
-            #check DKMS modules location
-            driver_path = self.get_dkms_module_location()
-            if not os.path.exists(driver_path):
-                logger().log("Cannot find chipsec.ko module")
-                subprocess.check_output( [ "insmod", driver_path, a1, a2 ] )
         uid = gid = 0
         os.chown(self.DEVICE_NAME, uid, gid)
         os.chmod(self.DEVICE_NAME, 600)
@@ -181,9 +159,8 @@ class LinuxHelper(Helper):
         return True
 
     def start(self, start_driver, driver_exists=False):
+        return True
         if start_driver:
-            if os.path.exists(self.DEVICE_NAME):
-                subprocess.call(["rmmod", self.MODULE_NAME])
             self.load_chipsec_module()
         self.init(start_driver)
         if logger().VERBOSE:
@@ -192,8 +169,6 @@ class LinuxHelper(Helper):
 
     def stop(self, start_driver):
         self.close()
-        if self.driver_loaded:
-            subprocess.call(["rmmod", self.MODULE_NAME])
         if logger().VERBOSE:
             logger().log("[helper] Linux Helper stopped/unloaded")
         return True
