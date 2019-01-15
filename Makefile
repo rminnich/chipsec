@@ -2,6 +2,6 @@ all:
 	echo "pick cpio or pox"
 
 cpio:
-	bash makecpio
+	bash buildcpio
 pox:
 	bash buildit

@@ -151,8 +151,9 @@
 /usr/lib/python2.7/zipfile.py \
 /usr/lib/python2.7/zipfile.py* \
 /usr/lib/x86_64-linux-gnu/libffi.so* \
-&& find $PWD ) | cpio -H newc -o > /tmp/chipsec.cpio
+$PWD/*.py* \
+&& find $PWD/chipsec \
+&& find $PWD/chipsec_tools ) | cpio -H newc -o > /tmp/chipsec.cpio
 
 
-echo 0
-/usr/local/src/projects/nobinaryblobs/chipsec/AUTHORS /usr/local/src/projects/nobinaryblobs/chipsec/build /usr/local/src/projects/nobinaryblobs/chipsec/buildcpio /usr/local/src/projects/nobinaryblobs/chipsec/buildit /usr/local/src/projects/nobinaryblobs/chipsec/chipsec /usr/local/src/projects/nobinaryblobs/chipsec/chipsec.cpio /usr/local/src/projects/nobinaryblobs/chipsec/chipsec_main.bin /usr/local/src/projects/nobinaryblobs/chipsec/chipsec_main.build /usr/local/src/projects/nobinaryblobs/chipsec/chipsec_main.dist /usr/local/src/projects/nobinaryblobs/chipsec/chipsec_main.py /usr/local/src/projects/nobinaryblobs/chipsec/chipsec-manual.pdf /usr/local/src/projects/nobinaryblobs/chipsec/chipsec.prodkern.ko /usr/local/src/projects/nobinaryblobs/chipsec/chipsec_tools /usr/local/src/projects/nobinaryblobs/chipsec/chipsec_util.py /usr/local/src/projects/nobinaryblobs/chipsec/COPYING /usr/local/src/projects/nobinaryblobs/chipsec/debian /usr/local/src/projects/nobinaryblobs/chipsec/docs /usr/local/src/projects/nobinaryblobs/chipsec/drivers /usr/local/src/projects/nobinaryblobs/chipsec/fdsv266 /usr/local/src/projects/nobinaryblobs/chipsec/__install__ /usr/local/src/projects/nobinaryblobs/chipsec/LICENSE /usr/local/src/projects/nobinaryblobs/chipsec/makecpio /usr/local/src/projects/nobinaryblobs/chipsec/Makefile /usr/local/src/projects/nobinaryblobs/chipsec/README /usr/local/src/projects/nobinaryblobs/chipsec/README.md /usr/local/src/projects/nobinaryblobs/chipsec/run /usr/local/src/projects/nobinaryblobs/chipsec/scripts /usr/local/src/projects/nobinaryblobs/chipsec/setup.py /usr/local/src/projects/nobinaryblobs/chipsec/shit /usr/local/src/projects/nobinaryblobs/chipsec/tests
+exit 0
