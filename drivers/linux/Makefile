@@ -1,7 +1,9 @@
-KERNEL_SRC_DIR ?= /lib/modules/`uname -r`/build
+#KERNEL_SRC_DIR ?= /lib/modules/`uname -r`/build
+KERNEL_SRC_DIR = /usr/local/src/projects/NERF/prod/
 #KERNEL_SRC_DIR = /usr/src/android/3.0-mid
 
 MACHINE ?= $(shell uname -m)
+ccflags-y := -fno-pie
 
 ifeq (,$(filter %i686 %i386 %i586,$(MACHINE)))
 	elf-size := elf64
